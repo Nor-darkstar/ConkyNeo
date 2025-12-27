@@ -1,6 +1,7 @@
 # ConkyNeo
 Pack of 5 simple and good looking widgets
 # Preview
+
 <p align="center">
 	<img src="./preview1.png" width="800" alt="preview logo">
 </p>
@@ -11,3 +12,6 @@ Pack of 5 simple and good looking widgets
 	<img src="./preview2.png" width="800" alt="preview logo">
 </p>
 <p align="center">Preview of Light Varient goes perfectly with dark wallpapers</p>
+
+# Installation 
+Download the master zip extract rename it from "ConkyNeo" to "Neo" and place it inside ~/.config/conky

@@ -4,4 +4,4 @@ Pack of 5 simple and good looking widgets
 <p align="center">
 	<img src="./preview1.png" width="800" alt="preview logo">
 </p>
-<p align="center">Preview of Light and Dark Varients</p>
+<p align="center">Preview of Dark Varient goes perfectly with light wallpapers</p>

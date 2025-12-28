@@ -6,10 +6,10 @@
 
 # Variables
 # get your city id at https://openweathermap.org/find and replace
-city_id=1625084
+city_id=1278718
 
 # you can use this or replace with yours
-api_key=e46d6b1c945f2e9983f0735f8928ea2f
+api_key=1812182f0c1c52c4ca7fe88acd652fd9
 
 # choose between metric for Celcius or imperial for fahrenheit
 unit=metric
